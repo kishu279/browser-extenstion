@@ -1,0 +1,11 @@
+{
+  "name": "Todo",
+  "version": "1.0.0",
+  "description": "todos",
+  "manifest_version": 3,
+  "author": "Sourav Poddar",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Todo"
+  }
+}
